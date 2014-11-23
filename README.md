@@ -23,7 +23,7 @@ The program is made to account for:
 > keeping track of player scores, turn point tallys ect.
 ```
  
- Delving deeper:
+ Delving-deeper:
  ==========
  ```
  Most of the logic is held in the Turn and Rules classes:
@@ -42,5 +42,5 @@ The program is made to account for:
 
  Thanks
  Michael C. Zakany
- ==========
+ 
  ==========
