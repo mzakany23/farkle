@@ -2,6 +2,7 @@
 ==========
 
 http://en.wikipedia.org/wiki/Farkle
+
 Built with ruby 1.9.3- with no dependencies.
 
 
@@ -20,11 +21,10 @@ Built with ruby 1.9.3- with no dependencies.
 * one last turn for the rest of players
 * keeping track of player scores, turn point tallys ect.
 ```
-==========
  
- ## Delving-deeper:
+## Delving-deeper:
 
- ### Most of the logic is held in the Turn and Rules classes:
+### Most of the logic is held in the Turn and Rules classes:
  
  ```
  Turns:
