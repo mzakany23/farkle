@@ -24,7 +24,7 @@ The program is made to account for:
 ```
  
  Delving-deeper:
- ==========
+
  ```
  Most of the logic is held in the Turn and Rules classes:
  Turns:
@@ -43,4 +43,3 @@ The program is made to account for:
  Thanks
  Michael C. Zakany
  
- ==========
