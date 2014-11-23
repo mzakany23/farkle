@@ -40,10 +40,6 @@ The program is made to account for:
  
  ```
 
- Thanks
-<<<<<<< HEAD
- Michael C. Zakany
+
+Michael C. Zakany
 =======
- Michael C. Zakany
- 
->>>>>>> 182fb191ad5d873df50249871eca1b93add97627
