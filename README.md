@@ -20,7 +20,7 @@ Built with ruby 1.9.3- with no dependencies.
 * winning
 * selecting flow overs (see below)
 * showing player scores/turn point tallies
-* one last turn for the rest of players
+* one last turn for the rest of players only if close to max score (see below)
 * keeping track of player scores, turn point tallys ect.
 * set to have multiple winners (tie for first place)
 ```
@@ -40,5 +40,10 @@ Built with ruby 1.9.3- with no dependencies.
  Rules (scoing rules):
  * knowing how to calculate triples/singles/straight
  * knowing when there's flow over ([1,1,1,1,2,2] scoring triple, and extra 1)
+
+ Game: 
+ * keeps track of game score and games winner
+ * decides one last throw (if second place is even able to beat first place with another turn)
+
  ```
 ==========
