@@ -42,7 +42,3 @@ Built with ruby 1.9.3- with no dependencies.
  * knowing when there's flow over ([1,1,1,1,2,2] scoring triple, and extra 1)
  ```
 ==========
-
-
-Michael C. Zakany
-=======
