@@ -6,7 +6,7 @@ http://en.wikipedia.org/wiki/Farkle
 Built with ruby 1.9.3- with no dependencies.
 
 
-## **Build:
+## Build:
 
 1. cd inside the farkle main folder
 2. ruby start_farkle.rb
@@ -22,9 +22,9 @@ Built with ruby 1.9.3- with no dependencies.
 * keeping track of player scores, turn point tallys ect.
 ```
  
-## **Delving-deeper:
+## Delving-deeper:
 
-### **Most of the logic is held in the *Turn and *Rules classes:
+### Most of the logic is held in the *Turn and *Rules classes:
  
  ```
  Turns:
