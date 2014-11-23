@@ -8,7 +8,6 @@ Built with ruby 1.9.3- with no dependencies.
 
 ## Build:
 
-### **cd inside the farkle main folder:**
 ```ruby
 ruby start_farkle.rb
 ```
@@ -48,4 +47,5 @@ ruby start_farkle.rb
  * decides one last throw (if second place is even able to beat first place with another turn)
 
  ```
+
 ==========
