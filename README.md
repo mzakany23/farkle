@@ -24,7 +24,7 @@ Built with ruby 1.9.3- with no dependencies.
  
 ## Delving-deeper:
 
-### Most of the logic is held in the *Turn and *Rules classes:
+### Most of the logic is held in the Turn and Rules classes:
  
  ```
  Turns:
