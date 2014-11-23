@@ -18,8 +18,11 @@ Built with ruby 1.9.3- with no dependencies.
 * hot dice
 * farkling
 * winning
+* selecting flow overs (see below)
+* showing player scores/turn point tallies
 * one last turn for the rest of players
 * keeping track of player scores, turn point tallys ect.
+* set to have multiple winners (tie for first place)
 ```
  
 ## Delving-deeper:
