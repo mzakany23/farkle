@@ -8,8 +8,10 @@ Built with ruby 1.9.3- with no dependencies.
 
 ## Build:
 
-1. cd inside the farkle main folder
-2. ruby start_farkle.rb
+### cd inside the farkle main folder
+```ruby
+ruby start_farkle.rb
+```
 
 ## The program is made to account for:
 ```
