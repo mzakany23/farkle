@@ -8,7 +8,7 @@ Built with ruby 1.9.3- with no dependencies.
 
 ## Build:
 
-### cd inside the farkle main folder
+### **cd inside the farkle main folder:**
 ```ruby
 ruby start_farkle.rb
 ```
